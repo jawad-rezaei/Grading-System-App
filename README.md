@@ -1,6 +1,10 @@
 # Grading-System-App
+# This small Androind application helps students to calculate their grades by entering the total marks they received in a course. 
 
-Activity_main.xml codes:
+
+# The XML and Java codes used in this application can be found below. 
+
+# XML codes:
 <?xml version="1.0" encoding="utf-8"?>
 <android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -254,7 +258,7 @@ Activity_main.xml codes:
 
  
 
-JAVA CODES:
+# Java codes:
 package com.example.itcs.gradeapplication;
 
 import android.os.Bundle;
