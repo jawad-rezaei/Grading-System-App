@@ -1,5 +1,5 @@
 # Grading-System-App
-# This small Androind application helps students to calculate their grades by entering the total marks they received in a course. 
+# This small Android application helps students to calculate their grades by entering the total marks they received in a course. 
 
 
 # The XML and Java codes used in this application can be found below. 
